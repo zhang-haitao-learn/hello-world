@@ -1,2 +1,2 @@
 # hello-world
-222
+print('hello world!')
